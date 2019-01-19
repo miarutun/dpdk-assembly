@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/RTE_SDK/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/RTE_SDK/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/RTE_SDK/value=/usr/include/dpdk
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/RTE_TARGET/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/RTE_TARGET/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/RTE_TARGET/value=x86_64-native-linuxapp-gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1152864348/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/RTE_SDK/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/RTE_SDK/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/RTE_SDK/value=/usr/include/dpdk
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/RTE_TARGET/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/RTE_TARGET/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/RTE_TARGET/value=x86_64-native-linuxapp-gcc
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.834976315/appendContributed=true
